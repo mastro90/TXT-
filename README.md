@@ -76,17 +76,4 @@ The project aims to analyze a collection of tweets in order to:
 - Reuse of the same preprocessing and training procedures from the binary BERT model.  
 - Evaluation of performance across multiple emotional labels.
 
----
 
-## Future Improvements
-- Refinement of topic modeling with improved parameter tuning and visualization tools.  
-- Exploration of additional classification models (e.g., Random Forest, OvO/OvR).  
-- Optimization of neural networks through hyperparameter tuning and alternative embeddings (Word2Vec, FastText, Doc2Vec).  
-- Extension of BERT with more complex configurations and additional layers.  
-- Use of emotion lexicons (e.g., NRC Emotion Lexicon) for enhanced affective interpretation.
-
----
-
-## Conclusions
-The project followed a complete natural language processing workflow, from data cleaning and modeling to supervised classification and advanced deep learning techniques.  
-This approach allowed for the integration of toxicity detection with emotion analysis, providing a strong foundation for future work in automatic text content evaluation.
